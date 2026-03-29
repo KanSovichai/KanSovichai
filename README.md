@@ -22,5 +22,5 @@ I'm currently in Cambodia.
 
 Tech Stack :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,c,cpp,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,c,cpp,python,java,vscode)](https://skillicons.dev)
 
