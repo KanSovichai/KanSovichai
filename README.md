@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
-###I'm a Frontend and Backend (Freshly started) Developer.
+### I'm a Frontend and Backend (Freshly started) Developer.
     
 </div>
 
 <div align="center">
 
-###I'm currently in Cambodia.
+### I'm currently in Cambodia.
     
 </div>
 
 <div align="center" style="display:flex, justify-content:center, align-items="center, gap="5%"" ">
     
-#Tech Stack :
+# Tech Stack :
 
 ---
 
