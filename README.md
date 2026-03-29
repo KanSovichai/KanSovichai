@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github Profile 👋
 
 <!--
 **KanSovichai/KanSovichai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Name is Kan Sovichai and I'm an ITE student at RUPP.
+###My Name is Kan Sovichai and I'm an ITE student at RUPP.
 
-I'm a Frontend and Backend (Freshly started) Developer.
+###I'm a Frontend and Backend (Freshly started) Developer.
 
-I'm currently in Cambodia.
+###I'm currently in Cambodia.
 
 <div align="center" style="display:flex, justify-content:center, align-items="center, gap="5%"" ">
     Tech Stack :
