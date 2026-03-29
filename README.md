@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+    
     ### My Name is Kan Sovichai and I'm an ITE student at RUPP.
+
 </div>
 
 ###I'm a Frontend and Backend (Freshly started) Developer.
