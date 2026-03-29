@@ -20,7 +20,7 @@ I'm a Frontend and Backend (Freshly started) Developer.
 
 I'm currently in Cambodia.
 
-<div align="center" style="display:flex, justify-content:center, align-items="center" ">
+<div align="center" style="display:flex, justify-content:center, align-items="center, gap="5%"" ">
     Tech Stack :
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,c,cpp,python,java,vscode,git)](https://skillicons.dev)
