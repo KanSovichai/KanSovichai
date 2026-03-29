@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Name is Kan Sovichai and I'm an ITE student at RUPP.
+
+I'm a Frontend and Backend (Freshly started) Developer.
+
+I'm currently in Cambodia.
+
+Tech Stack :
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,c,cpp,python,java)](https://skillicons.dev)
+
