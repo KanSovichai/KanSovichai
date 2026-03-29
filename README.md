@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     
-    ### My Name is Kan Sovichai and I'm an ITE student at RUPP.
+### My Name is Kan Sovichai and I'm an ITE student at RUPP.
 
 </div>
 
