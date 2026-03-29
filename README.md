@@ -19,14 +19,27 @@ Here are some ideas to get you started:
 ### My Name is Kan Sovichai and I'm an ITE student at RUPP.
 
 </div>
+<div align="center">
 
 ###I'm a Frontend and Backend (Freshly started) Developer.
+    
+</div>
+
+<div align="center">
 
 ###I'm currently in Cambodia.
+    
+</div>
 
 <div align="center" style="display:flex, justify-content:center, align-items="center, gap="5%"" ">
-    Tech Stack :
+    
+#Tech Stack :
+
+---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,c,cpp,python,java,vscode,git)](https://skillicons.dev)
+
+---
+
 </div>
 
