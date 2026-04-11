@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,c,cpp,python,java,vscode,git,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,c,cpp,python,java,vscode,git,vercel,mysql)](https://skillicons.dev)
 
 ---
 
