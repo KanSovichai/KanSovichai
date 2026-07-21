@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
-### I'm a Frontend and Backend (Freshly started) Developer.
+### I'm a Frontend and Backend Developer.
     
 </div>
 
