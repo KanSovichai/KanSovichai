@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanSovichai&bg_color=0b0b14&color=ff4d6d&line=00b0ff&point=e60026&area=true&border_color=00b0ff&custom_title=Code%20016%20Activity)
+[![Activity Graph](https://personal-github-activity-graph.vercel.app/graph?username=KanSovichai&bg_color=0b0b14&color=ff4d6d&line=00b0ff&point=e60026&area=true&border_color=00b0ff&custom_title=Code%20016%20Activity)
     
 </div>
 
