@@ -14,24 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div>
     
 ### My Name is Kan Sovichai and I'm an ITE (Information Technology Engineering) student at RUPP.
 
 </div>
-<div align="center">
+<div>
 
 ### I'm a Frontend and Backend Developer.
     
 </div>
 
-<div align="center">
+<div>
 
 ### I'm currently in Cambodia.
     
 </div>
 
-<div align="center" style="display:flex, justify-content:center, align-items="center, gap="5%"" ">
+<div style="display:flex, justify-content:center, align-items="center, gap="5%"" ">
     
 # Tech Stack :
 
